@@ -1,0 +1,10 @@
+geckoloc=webdriver.gecko.driver
+ffpath=D:\\workspace\\Own_project2\\Drivers\\geckodriver.exe
+fburl=https://www.facebook.com/
+fbusername=pallavidash92@gmail.com
+fbpassword=pallavi@1234
+
+
+ExcelSheet Detail
+accusername=pallavi
+accno=14536978123845
