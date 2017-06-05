@@ -2,6 +2,7 @@ package abstr;
 
 public class Main extends Person1{
 	
+	int a=10;
 	public void emp(int c,int d){
 		System.out.println("he is eligible for car loan");
 		
