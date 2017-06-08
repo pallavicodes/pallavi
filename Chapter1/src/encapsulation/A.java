@@ -8,6 +8,7 @@ public class A {
      
      public void m1(){
     	 System.out.println("a+b="+(a+b));
+    	 System.out.println("b+d="+(b+d));
      }
      public static void main(String[] args) {
 		new A().m1();
